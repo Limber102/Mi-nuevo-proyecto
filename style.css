@@ -10,6 +10,7 @@ body, html {
   width: 100%;
   padding: 20px;
   box-sizing: border-box;
+}
 .header h1 {
   margin: 0;
   text-align: left;
@@ -91,7 +92,6 @@ textarea {
   gap: 20px;
   margin-top: 20px;
 }
-
 .servicio {
   width: 150px;
   height: 150px;
